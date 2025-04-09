@@ -1,0 +1,536 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Coding2\\Ajay VHassh\\ReadRack Managment System\\ReadRack_Management_System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68CE041A-BC41-4BF4-9F98-2898A8EC6101}|Book_UI\\Book_UI.csproj|d:\\coding2\\ajay vhassh\\readrack managment system\\readrack_management_system\\book_ui\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68CE041A-BC41-4BF4-9F98-2898A8EC6101}|Book_UI\\Book_UI.csproj|solutionrelative:book_ui\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68CE041A-BC41-4BF4-9F98-2898A8EC6101}|Book_UI\\Book_UI.csproj|d:\\coding2\\ajay vhassh\\readrack managment system\\readrack_management_system\\book_ui\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68CE041A-BC41-4BF4-9F98-2898A8EC6101}|Book_UI\\Book_UI.csproj|solutionrelative:book_ui\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68CE041A-BC41-4BF4-9F98-2898A8EC6101}|Book_UI\\Book_UI.csproj|d:\\coding2\\ajay vhassh\\readrack managment system\\readrack_management_system\\book_ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68CE041A-BC41-4BF4-9F98-2898A8EC6101}|Book_UI\\Book_UI.csproj|solutionrelative:book_ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68CE041A-BC41-4BF4-9F98-2898A8EC6101}|Book_UI\\Book_UI.csproj|d:\\coding2\\ajay vhassh\\readrack managment system\\readrack_management_system\\book_ui\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68CE041A-BC41-4BF4-9F98-2898A8EC6101}|Book_UI\\Book_UI.csproj|solutionrelative:book_ui\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A369E23-0461-4357-BFAB-79BE331E1077}|MultiLayer\\Repositories\\Repositories.csproj|D:\\Coding2\\Ajay VHassh\\ReadRack Managment System\\ReadRack_Management_System\\multilayer\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A369E23-0461-4357-BFAB-79BE331E1077}|MultiLayer\\Repositories\\Repositories.csproj|solutionrelative:multilayer\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2485E69-0397-44AF-9D2B-B2A5BA1313B9}|MultiLayer\\BAL\\BAL.csproj|D:\\Coding2\\Ajay VHassh\\ReadRack Managment System\\ReadRack_Management_System\\multilayer\\bal\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2485E69-0397-44AF-9D2B-B2A5BA1313B9}|MultiLayer\\BAL\\BAL.csproj|solutionrelative:multilayer\\bal\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85BCE7BB-CC42-4A72-86AC-4057A64EDDB7}|BOOK_API\\BOOK_API.csproj|d:\\coding2\\ajay vhassh\\readrack managment system\\readrack_management_system\\book_api\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85BCE7BB-CC42-4A72-86AC-4057A64EDDB7}|BOOK_API\\BOOK_API.csproj|solutionrelative:book_api\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68CE041A-BC41-4BF4-9F98-2898A8EC6101}|Book_UI\\Book_UI.csproj|D:\\Coding2\\Ajay VHassh\\ReadRack Managment System\\ReadRack_Management_System\\book_ui\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{68CE041A-BC41-4BF4-9F98-2898A8EC6101}|Book_UI\\Book_UI.csproj|solutionrelative:book_ui\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68CE041A-BC41-4BF4-9F98-2898A8EC6101}|Book_UI\\Book_UI.csproj|d:\\coding2\\ajay vhassh\\readrack managment system\\readrack_management_system\\book_ui\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{68CE041A-BC41-4BF4-9F98-2898A8EC6101}|Book_UI\\Book_UI.csproj|solutionrelative:book_ui\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85BCE7BB-CC42-4A72-86AC-4057A64EDDB7}|BOOK_API\\BOOK_API.csproj|D:\\Coding2\\Ajay VHassh\\ReadRack Managment System\\ReadRack_Management_System\\book_api\\app_start\\swaggerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85BCE7BB-CC42-4A72-86AC-4057A64EDDB7}|BOOK_API\\BOOK_API.csproj|solutionrelative:book_api\\app_start\\swaggerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68CE041A-BC41-4BF4-9F98-2898A8EC6101}|Book_UI\\Book_UI.csproj|d:\\coding2\\ajay vhassh\\readrack managment system\\readrack_management_system\\book_ui\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68CE041A-BC41-4BF4-9F98-2898A8EC6101}|Book_UI\\Book_UI.csproj|solutionrelative:book_ui\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68CE041A-BC41-4BF4-9F98-2898A8EC6101}|Book_UI\\Book_UI.csproj|d:\\coding2\\ajay vhassh\\readrack managment system\\readrack_management_system\\book_ui\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68CE041A-BC41-4BF4-9F98-2898A8EC6101}|Book_UI\\Book_UI.csproj|solutionrelative:book_ui\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85BCE7BB-CC42-4A72-86AC-4057A64EDDB7}|BOOK_API\\BOOK_API.csproj|D:\\Coding2\\Ajay VHassh\\ReadRack Managment System\\ReadRack_Management_System\\book_api\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85BCE7BB-CC42-4A72-86AC-4057A64EDDB7}|BOOK_API\\BOOK_API.csproj|solutionrelative:book_api\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B598A8A-BDB8-42C1-8BCE-FD42A832FB55}|MultiLayer\\DAL\\DATA.csproj|d:\\coding2\\ajay vhassh\\readrack managment system\\readrack_management_system\\multilayer\\dal\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B598A8A-BDB8-42C1-8BCE-FD42A832FB55}|MultiLayer\\DAL\\DATA.csproj|solutionrelative:multilayer\\dal\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B598A8A-BDB8-42C1-8BCE-FD42A832FB55}|MultiLayer\\DAL\\DATA.csproj|d:\\coding2\\ajay vhassh\\readrack managment system\\readrack_management_system\\multilayer\\dal\\readrackdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B598A8A-BDB8-42C1-8BCE-FD42A832FB55}|MultiLayer\\DAL\\DATA.csproj|solutionrelative:multilayer\\dal\\readrackdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85BCE7BB-CC42-4A72-86AC-4057A64EDDB7}|BOOK_API\\BOOK_API.csproj|D:\\Coding2\\Ajay VHassh\\ReadRack Managment System\\ReadRack_Management_System\\book_api\\app_start\\unityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85BCE7BB-CC42-4A72-86AC-4057A64EDDB7}|BOOK_API\\BOOK_API.csproj|solutionrelative:book_api\\app_start\\unityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85BCE7BB-CC42-4A72-86AC-4057A64EDDB7}|BOOK_API\\BOOK_API.csproj|D:\\Coding2\\Ajay VHassh\\ReadRack Managment System\\ReadRack_Management_System\\book_api\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85BCE7BB-CC42-4A72-86AC-4057A64EDDB7}|BOOK_API\\BOOK_API.csproj|solutionrelative:book_api\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Coding2\\Ajay VHassh\\ReadRack Managment System\\ReadRack_Management_System\\packages\\Unity.WebAPI.5.4.0\\Readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:packages\\Unity.WebAPI.5.4.0\\Readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85BCE7BB-CC42-4A72-86AC-4057A64EDDB7}|BOOK_API\\BOOK_API.csproj|d:\\coding2\\ajay vhassh\\readrack managment system\\readrack_management_system\\book_api\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{85BCE7BB-CC42-4A72-86AC-4057A64EDDB7}|BOOK_API\\BOOK_API.csproj|solutionrelative:book_api\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85BCE7BB-CC42-4A72-86AC-4057A64EDDB7}|BOOK_API\\BOOK_API.csproj|D:\\Coding2\\Ajay VHassh\\ReadRack Managment System\\ReadRack_Management_System\\book_api\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85BCE7BB-CC42-4A72-86AC-4057A64EDDB7}|BOOK_API\\BOOK_API.csproj|solutionrelative:book_api\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A369E23-0461-4357-BFAB-79BE331E1077}|MultiLayer\\Repositories\\Repositories.csproj|D:\\Coding2\\Ajay VHassh\\ReadRack Managment System\\ReadRack_Management_System\\multilayer\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A369E23-0461-4357-BFAB-79BE331E1077}|MultiLayer\\Repositories\\Repositories.csproj|solutionrelative:multilayer\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85BCE7BB-CC42-4A72-86AC-4057A64EDDB7}|BOOK_API\\BOOK_API.csproj|D:\\Coding2\\Ajay VHassh\\ReadRack Managment System\\ReadRack_Management_System\\book_api\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{85BCE7BB-CC42-4A72-86AC-4057A64EDDB7}|BOOK_API\\BOOK_API.csproj|solutionrelative:book_api\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B598A8A-BDB8-42C1-8BCE-FD42A832FB55}|MultiLayer\\DAL\\DAL.csproj|D:\\Coding2\\Ajay VHassh\\ReadRack Managment System\\ReadRack_Management_System\\multilayer\\dal\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B598A8A-BDB8-42C1-8BCE-FD42A832FB55}|MultiLayer\\DAL\\DAL.csproj|solutionrelative:multilayer\\dal\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B598A8A-BDB8-42C1-8BCE-FD42A832FB55}|MultiLayer\\DAL\\DAL.csproj|D:\\Coding2\\Ajay VHassh\\ReadRack Managment System\\ReadRack_Management_System\\multilayer\\dal\\migrations\\202504081342315_updatedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B598A8A-BDB8-42C1-8BCE-FD42A832FB55}|MultiLayer\\DAL\\DAL.csproj|solutionrelative:multilayer\\dal\\migrations\\202504081342315_updatedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2485E69-0397-44AF-9D2B-B2A5BA1313B9}|MultiLayer\\BAL\\BAL.csproj|D:\\Coding2\\Ajay VHassh\\ReadRack Managment System\\ReadRack_Management_System\\multilayer\\bal\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2485E69-0397-44AF-9D2B-B2A5BA1313B9}|MultiLayer\\BAL\\BAL.csproj|solutionrelative:multilayer\\bal\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B598A8A-BDB8-42C1-8BCE-FD42A832FB55}|MultiLayer\\DAL\\DAL.csproj|D:\\Coding2\\Ajay VHassh\\ReadRack Managment System\\ReadRack_Management_System\\multilayer\\dal\\migrations\\202504081202143_intialdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B598A8A-BDB8-42C1-8BCE-FD42A832FB55}|MultiLayer\\DAL\\DAL.csproj|solutionrelative:multilayer\\dal\\migrations\\202504081202143_intialdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B598A8A-BDB8-42C1-8BCE-FD42A832FB55}|MultiLayer\\DAL\\DAL.csproj|D:\\Coding2\\Ajay VHassh\\ReadRack Managment System\\ReadRack_Management_System\\multilayer\\dal\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B598A8A-BDB8-42C1-8BCE-FD42A832FB55}|MultiLayer\\DAL\\DAL.csproj|solutionrelative:multilayer\\dal\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B598A8A-BDB8-42C1-8BCE-FD42A832FB55}|MultiLayer\\DAL\\DAL.csproj|D:\\Coding2\\Ajay VHassh\\ReadRack Managment System\\ReadRack_Management_System\\multilayer\\dal\\readrackdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B598A8A-BDB8-42C1-8BCE-FD42A832FB55}|MultiLayer\\DAL\\DAL.csproj|solutionrelative:multilayer\\dal\\readrackdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Coding2\\Ajay VHassh\\ReadRack Managment System\\ReadRack_Management_System\\packages\\Unity.Mvc5.1.4.0\\Readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:packages\\Unity.Mvc5.1.4.0\\Readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\AppData\\Local\\Temp\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\ReadRack Managment System\\ReadRack_Management_System\\BOOK_API\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "BOOK_API\\Controllers\\BookController.cs",
+              "ToolTip": "D:\\Coding2\\Ajay VHassh\\ReadRack Managment System\\ReadRack_Management_System\\BOOK_API\\Controllers\\BookController.cs",
+              "RelativeToolTip": "BOOK_API\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwBcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T12:39:23.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\ReadRack Managment System\\ReadRack_Management_System\\MultiLayer\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "MultiLayer\\Repositories\\BookRepository.cs",
+              "ToolTip": "D:\\Coding2\\Ajay VHassh\\ReadRack Managment System\\ReadRack_Management_System\\MultiLayer\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "MultiLayer\\Repositories\\BookRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowBQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T12:15:34.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\ReadRack Managment System\\ReadRack_Management_System\\Book_UI\\Views\\Book\\Index.cshtml",
+              "RelativeDocumentMoniker": "Book_UI\\Views\\Book\\Index.cshtml",
+              "ToolTip": "D:\\Coding2\\Ajay VHassh\\ReadRack Managment System\\ReadRack_Management_System\\Book_UI\\Views\\Book\\Index.cshtml",
+              "RelativeToolTip": "Book_UI\\Views\\Book\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T09:53:12.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\ReadRack Managment System\\ReadRack_Management_System\\Book_UI\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Book_UI\\Controllers\\BookController.cs",
+              "ToolTip": "D:\\Coding2\\Ajay VHassh\\ReadRack Managment System\\ReadRack_Management_System\\Book_UI\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Book_UI\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwBsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T08:55:49.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\ReadRack Managment System\\ReadRack_Management_System\\Book_UI\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Book_UI\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Coding2\\Ajay VHassh\\ReadRack Managment System\\ReadRack_Management_System\\Book_UI\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Book_UI\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T09:32:45.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\ReadRack Managment System\\ReadRack_Management_System\\Book_UI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Book_UI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Coding2\\Ajay VHassh\\ReadRack Managment System\\ReadRack_Management_System\\Book_UI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Book_UI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T09:32:31.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\ReadRack Managment System\\ReadRack_Management_System\\MultiLayer\\BAL\\BookService.cs",
+              "RelativeDocumentMoniker": "MultiLayer\\BAL\\BookService.cs",
+              "ToolTip": "D:\\Coding2\\Ajay VHassh\\ReadRack Managment System\\ReadRack_Management_System\\MultiLayer\\BAL\\BookService.cs",
+              "RelativeToolTip": "MultiLayer\\BAL\\BookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T12:24:57.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\ReadRack Managment System\\ReadRack_Management_System\\Book_UI\\Web.config",
+              "RelativeDocumentMoniker": "Book_UI\\Web.config",
+              "ToolTip": "D:\\Coding2\\Ajay VHassh\\ReadRack Managment System\\ReadRack_Management_System\\Book_UI\\Web.config",
+              "RelativeToolTip": "Book_UI\\Web.config",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-08T06:12:58.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\ReadRack Managment System\\ReadRack_Management_System\\Book_UI\\packages.config",
+              "RelativeDocumentMoniker": "Book_UI\\packages.config",
+              "ToolTip": "D:\\Coding2\\Ajay VHassh\\ReadRack Managment System\\ReadRack_Management_System\\Book_UI\\packages.config",
+              "RelativeToolTip": "Book_UI\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-09T09:32:15.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SwaggerConfig.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\ReadRack Managment System\\ReadRack_Management_System\\BOOK_API\\App_Start\\SwaggerConfig.cs",
+              "RelativeDocumentMoniker": "BOOK_API\\App_Start\\SwaggerConfig.cs",
+              "ToolTip": "D:\\Coding2\\Ajay VHassh\\ReadRack Managment System\\ReadRack_Management_System\\BOOK_API\\App_Start\\SwaggerConfig.cs",
+              "RelativeToolTip": "BOOK_API\\App_Start\\SwaggerConfig.cs",
+              "ViewState": "AgIAAMAAAAAAAAAAAAAAACIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T06:42:39.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\ReadRack Managment System\\ReadRack_Management_System\\Book_UI\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "Book_UI\\App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\Coding2\\Ajay VHassh\\ReadRack Managment System\\ReadRack_Management_System\\Book_UI\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "Book_UI\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T09:32:18.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UnityConfig.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\ReadRack Managment System\\ReadRack_Management_System\\BOOK_API\\App_Start\\UnityConfig.cs",
+              "RelativeDocumentMoniker": "BOOK_API\\App_Start\\UnityConfig.cs",
+              "ToolTip": "D:\\Coding2\\Ajay VHassh\\ReadRack Managment System\\ReadRack_Management_System\\BOOK_API\\App_Start\\UnityConfig.cs",
+              "RelativeToolTip": "BOOK_API\\App_Start\\UnityConfig.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T06:42:44.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\ReadRack Managment System\\ReadRack_Management_System\\Book_UI\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Book_UI\\Models\\Book.cs",
+              "ToolTip": "D:\\Coding2\\Ajay VHassh\\ReadRack Managment System\\ReadRack_Management_System\\Book_UI\\Models\\Book.cs",
+              "RelativeToolTip": "Book_UI\\Models\\Book.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T09:22:29.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\ReadRack Managment System\\ReadRack_Management_System\\BOOK_API\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "BOOK_API\\Models\\Book.cs",
+              "ToolTip": "D:\\Coding2\\Ajay VHassh\\ReadRack Managment System\\ReadRack_Management_System\\BOOK_API\\Models\\Book.cs",
+              "RelativeToolTip": "BOOK_API\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T07:00:49.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\ReadRack Managment System\\ReadRack_Management_System\\MultiLayer\\DAL\\Entities\\Book.cs",
+              "RelativeDocumentMoniker": "MultiLayer\\DAL\\Entities\\Book.cs",
+              "ToolTip": "D:\\Coding2\\Ajay VHassh\\ReadRack Managment System\\ReadRack_Management_System\\MultiLayer\\DAL\\Entities\\Book.cs",
+              "RelativeToolTip": "MultiLayer\\DAL\\Entities\\Book.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T06:54:12.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ReadRackDbContext.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\ReadRack Managment System\\ReadRack_Management_System\\MultiLayer\\DAL\\ReadRackDbContext.cs",
+              "RelativeDocumentMoniker": "MultiLayer\\DAL\\ReadRackDbContext.cs",
+              "ToolTip": "D:\\Coding2\\Ajay VHassh\\ReadRack Managment System\\ReadRack_Management_System\\MultiLayer\\DAL\\ReadRackDbContext.cs",
+              "RelativeToolTip": "MultiLayer\\DAL\\ReadRackDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T06:54:12.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\ReadRack Managment System\\ReadRack_Management_System\\BOOK_API\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "BOOK_API\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "D:\\Coding2\\Ajay VHassh\\ReadRack Managment System\\ReadRack_Management_System\\BOOK_API\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "BOOK_API\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T06:37:42.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\ReadRack Managment System\\ReadRack_Management_System\\BOOK_API\\packages.config",
+              "RelativeDocumentMoniker": "BOOK_API\\packages.config",
+              "ToolTip": "D:\\Coding2\\Ajay VHassh\\ReadRack Managment System\\ReadRack_Management_System\\BOOK_API\\packages.config",
+              "RelativeToolTip": "BOOK_API\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-09T07:16:06.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Readme.txt",
+              "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\ReadRack Managment System\\ReadRack_Management_System\\packages\\Unity.WebAPI.5.4.0\\Readme.txt",
+              "RelativeDocumentMoniker": "packages\\Unity.WebAPI.5.4.0\\Readme.txt",
+              "ToolTip": "D:\\Coding2\\Ajay VHassh\\ReadRack Managment System\\ReadRack_Management_System\\packages\\Unity.WebAPI.5.4.0\\Readme.txt",
+              "RelativeToolTip": "packages\\Unity.WebAPI.5.4.0\\Readme.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-09T08:30:42.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\ReadRack Managment System\\ReadRack_Management_System\\BOOK_API\\Global.asax.cs",
+              "RelativeDocumentMoniker": "BOOK_API\\Global.asax.cs",
+              "ToolTip": "D:\\Coding2\\Ajay VHassh\\ReadRack Managment System\\ReadRack_Management_System\\BOOK_API\\Global.asax.cs",
+              "RelativeToolTip": "BOOK_API\\Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T06:42:25.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\ReadRack Managment System\\ReadRack_Management_System\\BOOK_API\\Web.config",
+              "RelativeDocumentMoniker": "BOOK_API\\Web.config",
+              "ToolTip": "D:\\Coding2\\Ajay VHassh\\ReadRack Managment System\\ReadRack_Management_System\\BOOK_API\\Web.config",
+              "RelativeToolTip": "BOOK_API\\Web.config",
+              "ViewState": "AgIAACQAAAAAAAAAAAAcwDgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-08T06:37:23.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\ReadRack Managment System\\ReadRack_Management_System\\MultiLayer\\Repositories\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "MultiLayer\\Repositories\\IBookRepository.cs",
+              "ToolTip": "D:\\Coding2\\Ajay VHassh\\ReadRack Managment System\\ReadRack_Management_System\\MultiLayer\\Repositories\\IBookRepository.cs",
+              "RelativeToolTip": "MultiLayer\\Repositories\\IBookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T12:05:06.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "202504081342315_UpdateDb.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\ReadRack Managment System\\ReadRack_Management_System\\MultiLayer\\DAL\\Migrations\\202504081342315_UpdateDb.cs",
+              "RelativeDocumentMoniker": "MultiLayer\\DAL\\Migrations\\202504081342315_UpdateDb.cs",
+              "ToolTip": "D:\\Coding2\\Ajay VHassh\\ReadRack Managment System\\ReadRack_Management_System\\MultiLayer\\DAL\\Migrations\\202504081342315_UpdateDb.cs",
+              "RelativeToolTip": "MultiLayer\\DAL\\Migrations\\202504081342315_UpdateDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T13:42:39.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\ReadRack Managment System\\ReadRack_Management_System\\MultiLayer\\DAL\\Entities\\Book.cs",
+              "RelativeDocumentMoniker": "MultiLayer\\DAL\\Entities\\Book.cs",
+              "ToolTip": "D:\\Coding2\\Ajay VHassh\\ReadRack Managment System\\ReadRack_Management_System\\MultiLayer\\DAL\\Entities\\Book.cs",
+              "RelativeToolTip": "MultiLayer\\DAL\\Entities\\Book.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T11:47:57.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\ReadRack Managment System\\ReadRack_Management_System\\MultiLayer\\BAL\\IBookService.cs",
+              "RelativeDocumentMoniker": "MultiLayer\\BAL\\IBookService.cs",
+              "ToolTip": "D:\\Coding2\\Ajay VHassh\\ReadRack Managment System\\ReadRack_Management_System\\MultiLayer\\BAL\\IBookService.cs",
+              "RelativeToolTip": "MultiLayer\\BAL\\IBookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T12:20:28.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "202504081202143_intialDB.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\ReadRack Managment System\\ReadRack_Management_System\\MultiLayer\\DAL\\Migrations\\202504081202143_intialDB.cs",
+              "RelativeDocumentMoniker": "MultiLayer\\DAL\\Migrations\\202504081202143_intialDB.cs",
+              "ToolTip": "D:\\Coding2\\Ajay VHassh\\ReadRack Managment System\\ReadRack_Management_System\\MultiLayer\\DAL\\Migrations\\202504081202143_intialDB.cs",
+              "RelativeToolTip": "MultiLayer\\DAL\\Migrations\\202504081202143_intialDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T12:02:30.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\ReadRack Managment System\\ReadRack_Management_System\\MultiLayer\\DAL\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "MultiLayer\\DAL\\Migrations\\Configuration.cs",
+              "ToolTip": "D:\\Coding2\\Ajay VHassh\\ReadRack Managment System\\ReadRack_Management_System\\MultiLayer\\DAL\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "MultiLayer\\DAL\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T12:01:40.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ReadRackDbContext.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\ReadRack Managment System\\ReadRack_Management_System\\MultiLayer\\DAL\\ReadRackDbContext.cs",
+              "RelativeDocumentMoniker": "MultiLayer\\DAL\\ReadRackDbContext.cs",
+              "ToolTip": "D:\\Coding2\\Ajay VHassh\\ReadRack Managment System\\ReadRack_Management_System\\MultiLayer\\DAL\\ReadRackDbContext.cs",
+              "RelativeToolTip": "MultiLayer\\DAL\\ReadRackDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T11:53:29.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Readme.txt",
+              "DocumentMoniker": "D:\\Coding2\\Ajay VHassh\\ReadRack Managment System\\ReadRack_Management_System\\packages\\Unity.Mvc5.1.4.0\\Readme.txt",
+              "RelativeDocumentMoniker": "packages\\Unity.Mvc5.1.4.0\\Readme.txt",
+              "ToolTip": "D:\\Coding2\\Ajay VHassh\\ReadRack Managment System\\ReadRack_Management_System\\packages\\Unity.Mvc5.1.4.0\\Readme.txt",
+              "RelativeToolTip": "packages\\Unity.Mvc5.1.4.0\\Readme.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-08T06:40:26.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "readme.txt",
+              "DocumentMoniker": "C:\\Users\\Admin\\AppData\\Local\\Temp\\readme.txt",
+              "ToolTip": "C:\\Users\\Admin\\AppData\\Local\\Temp\\readme.txt",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-08T06:25:53.437Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
